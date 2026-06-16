@@ -1,5 +1,5 @@
 // programa principal do projeto "The Boys - 2024/2"
-// Autor: xxxxx, GRR xxxxxx
+// Autor: Nathalia Marcondes, GRR 20256408
 
 // seus #includes vão aqui
 
