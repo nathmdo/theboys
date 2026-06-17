@@ -1,4 +1,4 @@
-/* ESSE TAD GERÊNCIARÁ A SEGUENCIA DOS EVENTOS
+/* ESSE TAD GERÊNCIARÁ A SEQUENCIA DOS EVENTOS
 
 ele guarda todos os eventos futuros
 
